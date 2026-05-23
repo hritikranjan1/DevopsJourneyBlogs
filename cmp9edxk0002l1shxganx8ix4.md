@@ -1,10 +1,10 @@
 ---
-title: "📘 DevOps Week 6 - Complete Kubernetes Fundamentals Guide ☸️"
+title: "📘 DevOps Week 6 - Complete Kubernetes Fundamentals Guide ☸️ Part - 1"
 seoTitle: "DevOps Week 6: Complete Kubernetes Fundamentals"
 seoDescription: "Learn Kubernetes basics, architecture, pods, deployments, services, networking & cluster management in simple language."
 datePublished: 2026-05-17T06:32:08.761Z
 cuid: cmp9edxk0002l1shxganx8ix4
-slug: devops-week-6-complete-kubernetes-fundamentals-guide
+slug: devops-week-6-complete-kubernetes-fundamentals-guide-part-1
 cover: https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/b85194d4-5a95-4eed-9ea6-ea186d054788.png
 tags: docker, aws, kubernetes, cloud-computing, devops, containers, terraform, k8s, beginnersguide, devops-journey
 
