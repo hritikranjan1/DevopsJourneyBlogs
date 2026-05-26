@@ -5,7 +5,7 @@ seoDescription: "Learn Kubernetes Services, Ingress, RBAC, OpenShift, traffic fl
 datePublished: 2026-05-25T14:52:16.924Z
 cuid: cmplbrxcl00dn2cjvdoa6ey4z
 slug: devops-week-7-complete-kubernetes-fundamentals-guide-part-2
-cover: https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/ea3b8557-86ed-41eb-b2ea-ad3f00cd6865.png
+cover: https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/1cdec501-0bf4-4a07-b9c7-ac8803894f38.png
 tags: openshift, docker, aws, kubernetes, cloud-computing, devops, k8s, rbac, ingress, devops-journey
 
 ---
@@ -1190,6 +1190,8 @@ Instead, authentication is handled using external systems like:
 
 * * *
 
+![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/96b94e98-b597-466b-a00a-55f9645856d5.png align="center")
+
 # 🔹 What is a Role? 🛡️
 
 A Role defines:
@@ -1501,6 +1503,8 @@ kubectl auth can-i create pods
 ```
 
 * * *
+
+![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/4aafc932-8a38-4fca-a50d-914256c92c94.png align="center")
 
 # 🔥 Real-World Scenario Based Questions
 
