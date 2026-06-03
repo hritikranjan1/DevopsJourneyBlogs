@@ -1,10 +1,10 @@
 ---
-title: "🚀 DevOps Week 9.– Complete CI/CD Journey with Jenkins & GitHub Actions"
+title: "🚀 DevOps Week 9.1 – Complete CI/CD Journey with Jenkins & GitHub Actions"
 seoTitle: "CI/CD with Jenkins & GitHub Actions | DevOps Week 9"
 seoDescription: "Learn CI/CD, Jenkins, Docker Agents, Kubernetes, GitOps, GitHub Actions, and Self-Hosted Runners with practical DevOps examples."
 datePublished: 2026-06-03T05:00:00.000Z
 cuid: cmpxllzik000523dtfxu1cvf5
-slug: devops-week-9-complete-ci-cd-journey-with-jenkins-github-actions
+slug: devops-week-9-1-complete-ci-cd-journey-with-jenkins-github-actions
 cover: https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/db9ee1f6-e7c4-437b-8266-f580647c6904.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/66fecde7cb0abd844c1a2f3c/23c5e752-6b86-464c-a5c6-414c1cadb6b4.png
 tags: docker, kubernetes, cloud-computing, automation, devops, jenkins, github-actions-1, gitops, argocd, cicd-complete-proccess
