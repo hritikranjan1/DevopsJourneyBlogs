@@ -3,7 +3,7 @@ title: "DevOps Week 1: My Journey Begins 🚀"
 datePublished: 2026-04-04T06:56:44.062Z
 cuid: cmnjzbx9200dx2dk45aam6qfb
 slug: devops-week-1-my-journey-begins
-cover: https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/1cf79a1e-b65b-4a04-8378-9402facbf286.png
+cover: https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/bc4019ea-012b-4e5a-a031-ed1b608dcf45.png
 
 ---
 
