@@ -878,6 +878,10 @@ For AWS DevOps interviews, focus on:
 
 Understanding these scenarios will help you answer real-world AWS interview questions confidently and demonstrate practical cloud knowledge.
 
+Repo link - [https://github.com/hritikranjan1/AWS-Scenario-Based-Interview-Questions.git](https://github.com/hritikranjan1/AWS-Scenario-Based-Interview-Questions.git)
+
+Video - [https://youtu.be/qtkWHhikLh8?si=XZ3Ir4pc-fX9hVv9](https://youtu.be/qtkWHhikLh8?si=XZ3Ir4pc-fX9hVv9)
+
 * * *
 
 **AWS Zero to Hero Journey 🚀** **Author: Hritik Ranjan** ☁️ AWS | DevOps | Cloud Engineering Journey
