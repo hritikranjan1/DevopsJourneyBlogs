@@ -501,6 +501,8 @@ Secure
 
 * * *
 
+![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/04cf206a-7314-4389-81ed-ca25588f7fe7.png align="center")
+
 # Step 5 — Create IAM Role
 
 Attach permissions for
@@ -568,6 +570,8 @@ Docker creates application image.
 
 * * *
 
+![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/74449e45-97a3-4253-983d-202d0398e4d6.png align="center")
+
 # Step 9 — Push Image to Docker Hub
 
 After successful build
@@ -629,6 +633,8 @@ Pipeline starts automatically.
 No manual action required.
 
 * * *
+
+![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/9b235769-31d1-433b-8d15-1bf11ac07327.png align="center")
 
 # Understanding buildspec.yml
 
@@ -730,6 +736,8 @@ permission.
 
 * * *
 
+![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/bd289761-e855-47e3-ad77-142a4be1b3a5.png align="center")
+
 # Real-World CI Workflow
 
 ```text
@@ -830,6 +838,8 @@ Success
     
 
 * * *
+
+![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/66f7edce-21c0-47b1-a253-62cdee571cb8.png align="center")
 
 # Real Production Workflow
 
@@ -1133,4 +1143,7 @@ By completing this project, you've learned how to:
 
 This project provides a strong foundation for advanced CI/CD implementations. In the next step, you can extend this pipeline by integrating deployment tools such as **AWS CodeDeploy**, **Amazon ECS**, **Amazon EKS**, or **Argo CD** to achieve a complete end-to-end Continuous Delivery and GitOps workflow.
 
-**Happy Learning and Happy Building! 🚀**
+**Happy Learning and Happy Building! 🚀**  
+  
+
+![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/bb80e624-25a1-4d86-9b76-3a26477e540a.png align="center")
