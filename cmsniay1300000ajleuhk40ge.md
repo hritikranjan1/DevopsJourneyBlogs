@@ -1364,6 +1364,8 @@ The major concepts covered were:
 
 * * *
 
+![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/0f8a4930-1211-4c73-8baf-8770c619b10a.png align="center")
+
 # 💡 Important Interview Questions
 
 ## Q1. What is AWS CodeDeploy?
