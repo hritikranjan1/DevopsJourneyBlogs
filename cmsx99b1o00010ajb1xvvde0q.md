@@ -853,6 +853,8 @@ SNS Notification
 
 * * *
 
+![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/29e4d506-b255-4cad-a3c6-78ca22bc9d5c.png align="center")
+
 # 1️⃣4️⃣ Important EC2 Metrics
 
 Here are some useful EC2 metrics:
@@ -1078,6 +1080,8 @@ Security
 ```
 
 * * *
+
+![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/0cd4ac43-df82-439b-b60d-75d3c7516ce7.png align="center")
 
 # 🎯 Important Interview Questions and Answers
 
