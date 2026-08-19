@@ -1296,196 +1296,317 @@ This project is a great beginner step toward understanding **AWS Monitoring, Obs
 
 * * *
 
-# 🚀 Continue Your Learning Journey
+![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/ff10b288-a3bc-4b27-a9c8-75cc8e12025f.png align="center")
 
-Thank you for taking the time to read this article.
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Complete+Learning+%26+Career+Resources;%F0%9F%A4%96+AI+%7C+%F0%9F%93%8A+Data+%7C+%F0%9F%90%8D+Python+%7C+%E2%98%81%EF%B8%8F+Cloud;%F0%9F%94%90+Cybersecurity+%7C+%E2%9A%99%EF%B8%8F+DevOps;%F0%9F%93%9A+Learn+%7C+Practice+%7C+Build+%7C+Share+%7C+Grow align="center")
 
-Technology is evolving rapidly, and continuous learning is one of the most valuable investments you can make in your career. Whether you're exploring **DevOps, Cloud Computing, Artificial Intelligence, Cybersecurity, Software Development, Data Science, or Career Growth**, the resources below can help you deepen your knowledge and stay ahead in the industry.
+# 🚀 Complete Learning & Career Resources | 2027–2028
 
-* * *
+**A curated collection of learning resources for AI, Data Analytics, Python, Data Engineering, Cybersecurity, Cloud, Networking, Finance, Digital Marketing, Project Management, DevOps and Generative AI.**
 
-# 🎓 Recommended Learning Platforms
+📚 Learn  →  🧪 Practice  →  🛠️ Build  →  🐙 Share  →  🚀 Grow
 
-## 🚀 Coursera
+[![](https://img.shields.io/badge/GitHub-hritikranjan1-181717?style=for-the-badge&logo=github&logoColor=white align="center")](https://github.com/hritikranjan1)
 
-Learn from world-renowned universities and industry leaders including Google, IBM, Stanford, Microsoft, Meta, and many more.
+[![](https://img.shields.io/badge/Portfolio-hritikranjan.in-36BCF7?style=for-the-badge align="center")](https://hritikranjan.in)
 
-✔ Professional Certificates ✔ Career-focused Learning Paths ✔ AI & Machine Learning Programs ✔ Cloud & DevOps Certifications ✔ Business & Leadership Courses
+[![](https://img.shields.io/badge/Tech%20Blog-Read%20Articles-orange?style=for-the-badge align="center")](https://blogs.hritikranjan.in/)
 
-🔗 https://imp.i384100.net/k0KvbV
+[![](https://img.shields.io/badge/Telegram-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white align="center")](https://t.me/codewithluv143)
 
-* * *
+![](https://img.shields.io/badge/AI-%F0%9F%A4%96-8A2BE2?style=flat-square align="center")
 
-## 💻 Udemy
+![](https://img.shields.io/badge/Data-%F0%9F%93%8A-36BCF7?style=flat-square align="center")
 
-One of the largest online learning platforms with practical, hands-on courses covering:
+![](https://img.shields.io/badge/Python-%F0%9F%90%8D-3776AB?style=flat-square align="center")
 
-✔ DevOps & Kubernetes ✔ Docker & Cloud Computing ✔ AWS, Azure & GCP ✔ Programming & Development ✔ Cybersecurity & Ethical Hacking
+![](https://img.shields.io/badge/Cloud-%E2%98%81%EF%B8%8F-4285F4?style=flat-square align="center")
 
-🔗 https://trk.udemy.com/MAL2MY
+![](https://img.shields.io/badge/Cybersecurity-%F0%9F%94%90-111111?style=flat-square align="center")
 
-* * *
+![](https://img.shields.io/badge/DevOps-%E2%9A%99%EF%B8%8F-0A0A0A?style=flat-square align="center")
 
-## 📊 DataCamp
-
-A great platform for anyone interested in:
-
-✔ Python Programming ✔ SQL & Databases ✔ Data Analytics ✔ Machine Learning ✔ Artificial Intelligence
-
-Interactive learning paths and hands-on projects make it ideal for beginners and professionals alike.
-
-🔗 https://datacamp.pxf.io/nX4kER
+![](https://img.shields.io/badge/Career-%F0%9F%9A%80-success?style=flat-square align="center")
 
 * * *
 
-## 🎓 edX
+# 🌟 About This Repository
 
-Access high-quality courses and certifications from leading institutions such as:
+Welcome to the **Complete Learning & Career Resources Repository**! 🚀
 
-✔ Harvard University ✔ MIT ✔ Berkeley ✔ Microsoft
+This repository is designed as a centralized learning hub for students, developers, QA engineers, DevOps engineers, cloud learners, cybersecurity enthusiasts, data professionals, project managers, business professionals and anyone interested in continuous learning.
 
-Perfect for learners seeking university-level education online.
+The goal is simple:
 
-🔗 https://edx.sjv.io/POvVeN
+> **Learn → Practice → Build → Document → Share → Grow**
 
-* * *
-
-## 🎨 Domestika
-
-Enhance your creative skills with courses on:
-
-✔ Graphic Design ✔ Video Editing ✔ Animation ✔ Digital Marketing ✔ Content Creation
-
-🔗 https://domestika.sjv.io/dynKAW
+Instead of searching for useful resources again and again, this repository brings them together in one place.
 
 * * *
 
-# 🛠️ Recommended Tools & Resources
+# 🎯 What You Will Find Here
 
-## 🔥 AppSumo
-
-Discover exclusive lifetime deals on:
-
-✔ AI Tools ✔ Productivity Software ✔ Developer Utilities ✔ Marketing Platforms ✔ Business Applications
-
-A must-have resource for developers, creators, freelancers, and entrepreneurs looking to save money while accessing premium tools.
-
-🔗 https://appsumo.8odi.net/L04a33
-
-* * *
-
-## 🛒 Shopify
-
-Looking to start an online business or launch an eCommerce store?
-
-Shopify provides everything you need to build, manage, and scale an online business.
-
-✔ Online Store Builder ✔ Payment Integration ✔ Inventory Management ✔ Marketing Tools
-
-🔗 https://shopify.pxf.io/Vxv09k
-
-* * *
-
-## 🌐 WordPress, WooCommerce & Jetpack
-
-Create professional websites, blogs, and online stores with one of the most trusted web ecosystems in the world.
-
-Ideal for:
-
-✔ Personal Blogs ✔ Portfolio Websites ✔ Business Websites ✔ eCommerce Stores
-
-🔗 https://automattic.pxf.io/Z6vR5W
-
-* * *
-
-# 🌍 Language Learning Resources
-
-## 🗣️ Preply
-
-Learn English and other languages through personalized one-on-one tutoring sessions with experts from around the world.
-
-🔗 https://preply.sjv.io/o4gBDY
+*   🤖 Artificial Intelligence
+    
+*   🧠 Generative AI
+    
+*   📊 Data Analytics
+    
+*   🐍 Python
+    
+*   ⚙️ Data Engineering
+    
+*   ☁️ Cloud Computing
+    
+*   🌐 Computer Networking
+    
+*   🔐 Cybersecurity
+    
+*   ⚙️ DevOps
+    
+*   📋 Project Management
+    
+*   💰 Finance
+    
+*   📈 Digital Marketing
+    
+*   🧩 Business Analysis
+    
+*   🚀 Career Development
+    
+*   🎓 Professional Learning
+    
+*   🛠️ Project Ideas
+    
+*   📚 Learning Roadmaps
+    
 
 * * *
 
-## 📚 British Council English Online
+# 📊 Repository Overview
 
-Improve your professional communication skills and English fluency through structured learning programs.
-
-🔗 https://englishonline.sjv.io/9VOGa4
-
-* * *
-
-## 🧠 Rosetta Stone
-
-One of the most recognized language-learning platforms for immersive language acquisition.
-
-🔗 https://aff.rosettastone.com/X4OyqG
+| Category | Resources |
+| --- | --- |
+| 🤖 AI Courses | 15 |
+| 🔵 Google Courses | 15 |
+| 🟣 IBM Courses | 10 |
+| 🔥 Best Courses 2027–2028 | 21 |
+| 🌟 Learning & Career Resources | 14 |
+| 📖 Personal Resources | 4+ |
 
 * * *
 
-# 🧪 Science & Educational Resources
+# 📚 Table of Contents
 
-## 🔬 MEL Science
-
-Interactive science kits and educational experiences designed to make STEM learning engaging and practical.
-
-🔗 https://imp.i328067.net/bk2beg
+*   [🌟 About This Repository](#-about-this-repository)
+    
+*   [🎯 What You Will Find Here](#-what-you-will-find-here)
+    
+*   [📊 Repository Overview](#-repository-overview)
+    
+*   [🤖 AI Courses](#-ai-courses)
+    
+*   [🔵 Google Courses](#-google-courses)
+    
+*   [🟣 IBM Courses](#-ibm-courses)
+    
+*   [🔥 Best Courses 2027–2028](#-best-courses-20272028)
+    
+*   [🌟 Learning & Career Resources](#-learning--career-resources)
+    
+*   [🗺️ Recommended Learning Roadmaps](#%EF%B8%8F-recommended-learning-roadmaps)
+    
+*   [📊 Data Analytics Roadmap](#-data-analytics-roadmap)
+    
+*   [🐍 Python Roadmap](#-python-roadmap)
+    
+*   [☁️ Cloud & DevOps Roadmap](#%EF%B8%8F-cloud--devops-roadmap)
+    
+*   [🔐 Cybersecurity Roadmap](#-cybersecurity-roadmap)
+    
+*   [🤖 AI Roadmap](#-ai-roadmap)
+    
+*   [🧪 How to Learn Effectively](#-how-to-learn-effectively)
+    
+*   [🛠️ Project Ideas](#%EF%B8%8F-project-ideas)
+    
+*   [📂 Recommended GitHub Project Structure](#-recommended-github-project-structure)
+    
+*   [📈 Career Roadmap](#-career-roadmap)
+    
+*   [💡 Learning Checklist](#-learning-checklist)
+    
+*   [🧠 Golden Rules](#-golden-rules)
+    
+*   [📖 My Resources](#-my-resources)
+    
+*   [🌐 Useful Links](#-useful-links)
+    
+*   [⭐ Support This Repository](#-support-this-repository)
+    
+*   [🔄 Future Updates](#-future-updates)
+    
+*   [⚠️ Affiliate Disclosure](#%EF%B8%8F-affiliate-disclosure)
+    
 
 * * *
 
-## 📖 Carson Dellosa Education
+# 🤖 AI Courses
 
-Educational materials and learning resources for students, teachers, and lifelong learners.
+> 🚀 Explore AI fundamentals, Python, AI infrastructure, Generative AI, AI governance and specialized AI applications.
 
-🔗 https://carsondellosaeducation.sjv.io/E0JbjW
-
-* * *
-
-# ❤️ Support My Work
-
-Creating detailed technical content, tutorials, guides, and learning resources takes significant time and effort.
-
-If you find my articles helpful and would like to support my work, you can do so through the following platforms:
-
-## ⭐ Become a GitHub Sponsor
-
-Support my open-source contributions, technical content, and community projects.
-
-🔗 https://github.com/sponsors/hritikranjan1
-
-* * *
-
-## ☕ Buy Me a Chai
-
-Enjoying my content? Consider buying me a chai and supporting future tutorials, guides, and educational resources.
-
-🔗 https://www.chai4.me/hritikranjan
+| # | Course | Link |
+| --- | --- | --- |
+| 1 | AI For Everyone | [Start Course ↗](https://imp.i384100.net/jeaEZ5) |
+| 2 | AI Python for Beginners | [Start Course ↗](https://imp.i384100.net/B5bEAy) |
+| 3 | AI Infrastructure and Operations Fundamentals | [Start Course ↗](https://imp.i384100.net/OYEqWG) |
+| 4 | Generative AI for Human Resources (HR) Professionals | [Start Course ↗](https://imp.i384100.net/dyrBry) |
+| 5 | AI Fundamentals | [Start Course ↗](https://imp.i384100.net/bkQXqv) |
+| 6 | AI for Healthcare | [Start Course ↗](https://imp.i384100.net/qWoMoO) |
+| 7 | AI Applications in Accounting and Finance | [Start Course ↗](https://imp.i384100.net/DWaoaq) |
+| 8 | AI Governance and Privacy Professional Certification (AIGP) | [Start Course ↗](https://imp.i384100.net/Pznxnq) |
+| 9 | Ethics and Governance in the Age of Generative AI | [Start Course ↗](https://imp.i384100.net/1GzxzB) |
+| 10 | Hands-on quantum error correction with Google Quantum AI | [Start Course ↗](https://imp.i384100.net/zzOMO7) |
+| 11 | AI-Powered Higher Education | [Start Course ↗](https://imp.i384100.net/MKEOYN) |
+| 12 | Modern Project Leadership: Agile, AI, and Beyond | [Start Course ↗](https://imp.i384100.net/qWoMGq) |
+| 13 | AI-Powered Business Analysis: Excel, KPIs & GenAI | [Start Course ↗](https://imp.i384100.net/9VqkBY) |
+| 14 | AI in Law: Research, Risk, and Legal Drafting | [Start Course ↗](https://imp.i384100.net/5kzrBo) |
+| 15 | Generative AI for Project Managers | [Start Course ↗](https://imp.i384100.net/Gb1WY6) |
 
 * * *
 
-# 👨‍💻 Connect With Me
+# 🔵 Google Courses
 
-**Hritik Ranjan**
+> 🌐 Explore Data Analytics, AI, Cybersecurity, Networking, Cloud, Digital Marketing and Project Management.
 
-💡 AI Enthusiast ☁️ DevOps Learner 🔐 Cybersecurity Advocate 💻 Software Developer
-
-### Connect & Follow
-
-🔗 GitHub: https://github.com/hritikranjan1
-
-🔗 LinkedIn: https://linkedin.com/in/hritikranjan1
+| # | Course | Link |
+| --- | --- | --- |
+| 1 | Foundations: Data, Data, Everywhere | [Start Course ↗](https://imp.i384100.net/jRZX4a) |
+| 2 | Ask Questions to Make Data-Driven Decisions | [Start Course ↗](https://imp.i384100.net/Gb1WEm) |
+| 3 | Prepare Data for Exploration | [Start Course ↗](https://imp.i384100.net/zzOMRr) |
+| 4 | Agile Project Management | [Start Course ↗](https://imp.i384100.net/qWoMVY) |
+| 5 | Project Initiation: Starting a Successful Project | [Start Course ↗](https://imp.i384100.net/JkZnjq) |
+| 6 | AI Fundamentals | [Start Course ↗](https://imp.i384100.net/bkQXqv) |
+| 7 | Foundations of Digital Marketing and E-commerce | [Start Course ↗](https://imp.i384100.net/YVKejP) |
+| 8 | Play It Safe: Manage Security Risks | [Start Course ↗](https://imp.i384100.net/aNDgLR) |
+| 9 | The Bits and Bytes of Computer Networking | [Start Course ↗](https://imp.i384100.net/L0E65M) |
+| 10 | Analyze Data to Answer Questions | [Start Course ↗](https://imp.i384100.net/vDmM0v) |
+| 11 | Automate Cybersecurity Tasks with Python | [Start Course ↗](https://imp.i384100.net/YVKe3e) |
+| 12 | Architecting with Google Compute Engine | [Start Course ↗](https://imp.i384100.net/jRabAM) |
+| 13 | AI for Writing and Communicating | [Start Course ↗](https://imp.i384100.net/9Vqk3E) |
+| 14 | From Likes to Leads: Interact with Customers Online | [Start Course ↗](https://imp.i384100.net/YVKexr) |
+| 15 | AI for Data Analysis | [Start Course ↗](https://imp.i384100.net/L0E6q0) |
 
 * * *
 
-## 📢 Found This Article Helpful?
+# 🟣 IBM Courses
 
-If this article added value to your learning journey:
+> 💙 Explore SQL, Python, Data Analytics, Deep Learning, RAG and Generative AI resources.
 
-✅ Share it with your network ✅ Bookmark it for future reference ✅ Follow for more DevOps, AI, Cloud, Cybersecurity, and Software Engineering content
+| # | Course | Link |
+| --- | --- | --- |
+| 1 | Databases and SQL for Data Science with Python | [Start Course ↗](https://imp.i384100.net/9VqkPE) |
+| 2 | RAG and Agentic AI Capstone Project | [Start Course ↗](https://imp.i384100.net/Pznx9R) |
+| 3 | Excel Basics for Data Analysis | [Start Course ↗](https://imp.i384100.net/Gb1WB2) |
+| 4 | Introduction to Data Analytics | [Start Course ↗](https://imp.i384100.net/1GzxLz) |
+| 5 | Data Visualization and Dashboards with Excel and Cognos | [Start Course ↗](https://imp.i384100.net/X4EkA3) |
+| 6 | IBM AI Foundations for Business | [Start Course ↗](https://imp.i384100.net/zzOM3G) |
+| 7 | AI Capstone Project with Deep Learning | [Start Course ↗](https://imp.i384100.net/6kzj9m) |
+| 8 | Python Project for Data Engineering | [Start Course ↗](https://imp.i384100.net/B5kge9) |
+| 9 | Building Generative AI-Powered Applications with Python | [Start Course ↗](https://imp.i384100.net/MKEOzn) |
+| 10 | Vector Databases for RAG: An Introduction | [Start Course ↗](https://imp.i384100.net/m41MqO) |
 
-Thank you for reading and being part of this learning journey.
+* * *
 
-**Keep Learning. Keep Building. Keep Growing. 🚀**
+# 🔥 Best Courses 2027–2028
+
+> 🎯 A broader collection covering AI, Data, Python, Finance, Cybersecurity, Marketing, Networking, Management and Data Engineering.
+
+| # | Course | Link |
+| --- | --- | --- |
+| 1 | AI For Everyone | [Start Course ↗](https://imp.i384100.net/jeaEZ5) |
+| 2 | Foundations: Data, Data, Everywhere | [Start Course ↗](https://imp.i384100.net/jRZX4a) |
+| 3 | Ask Questions to Make Data-Driven Decisions | [Start Course ↗](https://imp.i384100.net/Gb1Wem) |
+| 4 | Prepare Data for Exploration | [Start Course ↗](https://imp.i384100.net/zzOMRr) |
+| 5 | Financial Markets | [Start Course ↗](https://imp.i384100.net/7Xoexg) |
+| 6 | Agile Project Management | [Start Course ↗](https://imp.i384100.net/qWoMVY) |
+| 7 | Play It Safe: Manage Security Risks | [Start Course ↗](https://imp.i384100.net/aNDgLR) |
+| 8 | Project Initiation: Starting a Successful Project | [Start Course ↗](https://imp.i384100.net/JkZnjq) |
+| 9 | AI Fundamentals | [Start Course ↗](https://imp.i384100.net/bkQXqv) |
+| 10 | Analyze Data to Answer Questions | [Start Course ↗](https://imp.i384100.net/vDmM0v) |
+| 11 | Foundations of Digital Marketing and E-commerce | [Start Course ↗](https://imp.i384100.net/YVKejP) |
+| 12 | The Bits and Bytes of Computer Networking | [Start Course ↗](https://imp.i384100.net/L0E65M) |
+| 13 | Sequence Models | [Start Course ↗](https://imp.i384100.net/rEWM0v) |
+| 14 | Federal Taxation I: Individuals, Employees, and Sole Proprietors | [Start Course ↗](https://imp.i384100.net/k4A6kL) |
+| 15 | Designing the Organization | [Start Course ↗](https://imp.i384100.net/enjzQO) |
+| 16 | Game Theory | [Start Course ↗](https://imp.i384100.net/L0E6oa) |
+| 17 | Using Python to Access Web Data | [Start Course ↗](https://imp.i384100.net/5kzrmn) |
+| 18 | Viral Marketing and How to Craft Contagious Content | [Start Course ↗](https://imp.i384100.net/JkZnoQ) |
+| 19 | Python Project for Data Engineering | [Start Course ↗](https://imp.i384100.net/B5kge9) |
+| 20 | Value Chain Management | [Start Course ↗](https://imp.i384100.net/OYEqoA) |
+| 21 | Applying Data Analytics in Finance | [Start Course ↗](https://imp.i384100.net/4aM9R1) |
+
+* * *
+
+# 🌟 Learning & Career Resources
+
+> 💡 Additional resources for learning, career development, language learning, hosting, education and professional growth.
+
+| Category | Program | Tracking Link |
+| --- | --- | --- |
+| 📱 Apps | **AppSumo** | https://appsumo.8odi.net/c/5203965/416948/7443 |
+| 🌐 Website Hosting | **Automattic, Inc. (WordPress.com, Pressable, WooCommerce, Jetpack)** | https://automattic.pxf.io/c/5203965/1900456/22744 |
+| 🇬🇧 College | **British Council - EOL English Online** | https://englishonline.sjv.io/c/5203965/1152772/14579 |
+| 📚 Educational | **Carson Dellosa Education** | https://carsondellosaeducation.sjv.io/c/5203965/2241626/29119 |
+| 🎓 College | **Coursera B2C Affiliate Program** | https://imp.i384100.net/c/5203965/1164545/14726 |
+| 📊 Learning | **DataCamp** | https://datacamp.pxf.io/c/5203965/1012793/13294 |
+| 🎨 Collectibles & Hobbies | **Domestika** | https://domestika.sjv.io/c/5203965/1492994/17608 |
+| 🎓 College | **edX** | https://edx.sjv.io/c/5203965/1505390/17728 |
+| 💼 Career | **Medical Spanish** | https://curiositymediainc.sjv.io/c/5203965/2899794/33984 |
+| 🧪 Educational | **MEL Science** | https://imp.i328067.net/c/5203965/574569/9515 |
+| 🗣️ Apps | **Preply Learners** | https://preply.sjv.io/c/5203965/1987575/24422 |
+| 🌍 Learning | **Rosetta Stone** | https://aff.rosettastone.com/c/5203965/1637427/18979 |
+| 🛍️ Website Hosting | **Shopify** | https://shopify.pxf.io/c/5203965/1061744/13624 |
+| 🎯 Learning | **Udemy** | https://trk.udemy.com/c/5203965/3193860/39854 |
+
+* * *
+
+# 🗺️ Recommended Learning Roadmaps
+
+> Choose one roadmap according to your career goal. You don't need to learn everything at once.
+
+* * *
+
+# 🤖 AI Roadmap
+
+```text
+AI Fundamentals
+      ↓
+Python Basics
+      ↓
+Mathematics & Statistics
+      ↓
+Data Fundamentals
+      ↓
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Generative AI
+      ↓
+Prompt Engineering
+      ↓
+RAG
+      ↓
+Vector Databases
+      ↓
+Agentic AI
+      ↓
+AI Applications
+      ↓
+Real-World Projects
+      ↓
+GitHub Portfolio
+```
 
 ![](https://cdn.hashnode.com/uploads/covers/66fecde7cb0abd844c1a2f3c/a3ad8d41-f1f2-4920-9b67-07520760ba4f.png align="center")
