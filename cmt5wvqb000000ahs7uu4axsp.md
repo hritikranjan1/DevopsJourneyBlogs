@@ -10,53 +10,53 @@ tags: lambda, aws, cloud-computing, devops, serverless
 
 ---
 
-<mark class="bg-yellow-200 dark:bg-yellow-500/30">AWS Lambda is an important AWS service for DevOps engineers because it allows us to </mark> **<mark class="bg-yellow-200 dark:bg-yellow-500/30">run code without managing servers</mark>**<mark class="bg-yellow-200 dark:bg-yellow-500/30">.</mark>
+AWS Lambda is an important AWS service for DevOps engineers because it allows us to run code without managing servers.
 
-<mark class="bg-yellow-200 dark:bg-yellow-500/30">In this blog, we will understand AWS Lambda from the basics, including how it works, why serverless architecture is useful, Lambda functions, handlers, triggers, permissions, environment variables, and real-world DevOps automation use cases.</mark>
+In this blog, we will understand AWS Lambda from the basics, including how it works, why serverless architecture is useful, Lambda functions, handlers, triggers, permissions, environment variables, and real-world DevOps automation use cases.
 
 * * *
 
-# <mark class="bg-yellow-200 dark:bg-yellow-500/30">📌 Table of Contents</mark>
+# 📌 Table of Contents
 
-1.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">What is AWS Lambda?</mark>
+1.  What is AWS Lambda?
     
-2.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">What is Serverless Architecture?</mark>
+2.  What is Serverless Architecture?
     
-3.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Traditional Architecture vs Serverless Architecture</mark>
+3.  Traditional Architecture vs Serverless Architecture
     
-4.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Why Do DevOps Engineers Use AWS Lambda?</mark>
+4.  Why Do DevOps Engineers Use AWS Lambda?
     
-5.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">How AWS Lambda Works</mark>
+5.  How AWS Lambda Works
     
-6.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">What is Event-Driven Architecture?</mark>
+6.  What is Event-Driven Architecture?
     
-7.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">AWS Lambda Triggers</mark>
+7.  AWS Lambda Triggers
     
-8.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Understanding Lambda Functions</mark>
+8.  Understanding Lambda Functions
     
-9.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">What is a Lambda Handler?</mark>
+9.  What is a Lambda Handler?
     
-10.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Creating Your First Lambda Function</mark>
+10.  Creating Your First Lambda Function
      
-11.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Lambda Permissions and IAM Roles</mark>
+11.  Lambda Permissions and IAM Roles
      
-12.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Environment Variables</mark>
+12.  Environment Variables
      
-13.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Real-World DevOps Use Cases</mark>
+13.  Real-World DevOps Use Cases
      
-14.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Cost Optimization with Lambda</mark>
+14.  Cost Optimization with Lambda
      
-15.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Security and Compliance Automation</mark>
+15.  Security and Compliance Automation
      
-16.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Advantages of AWS Lambda</mark>
+16.  Advantages of AWS Lambda
      
-17.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Limitations and Important Considerations</mark>
+17.  Limitations and Important Considerations
      
-18.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">AWS Lambda Architecture</mark>
+18.  AWS Lambda Architecture
      
-19.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Common Interview Questions and Answers</mark>
+19.  Common Interview Questions and Answers
      
-20.  <mark class="bg-yellow-200 dark:bg-yellow-500/30">Key Takeaways</mark>
+20.  Key Takeaways
      
 
 * * *
